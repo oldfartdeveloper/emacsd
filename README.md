@@ -62,6 +62,15 @@ advised to always run Prelude with the latest Emacs - currently
 - [Contributors](#contributors)
 - [Bugs & Improvements](#bugs--improvements)
 
+## OldFartDeveloper's Emacs Configuration
+
+Although this is mostly copied from the
+[Prelude Git Repository](https://github.com/bbatsov/prelude/blob/master/README.md),
+its primary purpose is to hold my personal `.emacs.d` folder configuration.
+
+As I go along, I'll attempt to document what I've changed as a "trail" for
+my own journey w/ Emacs and Prelude.
+
 ## Fast Forward
 
 Assuming you're using an Unix-like OS (`*BSD`, `GNU/Linux`, `OS X`, `Solaris`,
