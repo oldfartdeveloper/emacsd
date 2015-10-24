@@ -2,6 +2,7 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/SSmith/Documents/" . "Elixirconf/")
  ("/Users/SSmith/work/elixir/paypal_ipn_forwarder/" . "lib/")
  ("/Users/SSmith/work/paypal_ipn_forwarder/" . "paypal_ipn_forwarder.wiki/")
  ("/Users/SSmith/work/elixir/phoenix/hello_phoenix/" . "config/")
@@ -51,7 +52,7 @@
  ("/Users/SSmith/work/elixir/hello_phoenix/web/" . "templates/")
  ("/Users/SSmith/work/elixir/hello_phoenix/" . "web/")
  ("/Users/SSmith/work/elixir/Phitter.hold/" . "config/")
- ("/Users/SSmith/work/elixir/" . "paypal_ipn_forwarder/")
+ ("/Users/SSmith/work/elixir/" . "rumbl/")
  ("/Users/SSmith/work/elixir/elixir-in-action/code_samples/ch10/" . "todo_web/")
  ("/Users/SSmith/work/elixir/elixir-in-action/code_samples/" . "ch12/")
  ("/Users/SSmith/work/elixir/elixir-in-action/" . "code_samples/")
@@ -67,15 +68,18 @@
  ("/Users/SSmith/work/paypal_ipn_manager/lib/" . "ipn/")
  ("/Users/SSmith/work/paypal_ipn_manager/" . "lib/")
  ("/Users/SSmith/work/" . "hedgeye-cms/")
- ("/Users/SSmith/" . "work/")
+ ("/Users/SSmith/" . "Documents/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
+ "/Users/SSmith/work/elixir/rumbl/"
+ "/Users/SSmith/Documents/"
+ "/Users/SSmith/.emacs.d/personal/"
+ "/Users/SSmith/work/hedgeye-cms/tools/minimum_viable_db/"
  "/Users/SSmith/.emacs.d/"
  "/Users/SSmith/work/elixir/paypal_ipn_forwarder/lib/paypal_ipn_forwarder/"
  "/Users/SSmith/work/elixir/paypal_ipn_forwarder/paypal_ipn_forwarder.wiki/"
- "/Users/SSmith/work/hedgeye-cms/tools/minimum_viable_db/"
  "/Users/SSmith/work/markdown-mode/"
  "/Users/SSmith/work/elixir/paypal_ipn_forwarder/"
  "/Users/SSmith/"
@@ -119,28 +123,45 @@
  "/Users/SSmith/work/elixir/phitter/web/models/"
  "/Users/SSmith/work/elixir/phitter/web/templates/session/"
  "/Users/SSmith/work/elixir/phitter/web/controllers/session/"
- "/Users/SSmith/work/elixir/phitter/web/templates/registration/"
- "/Users/SSmith/work/elixir/phitter/web/"
- "/Users/SSmith/work/elixir/phitter/web/views/"
 )
 
 ;; ----- ido-work-file-list -----
 (
+ "mix.exs"
+ "larubyconf.org"
+ "personal.el"
+ "README.org"
  "prelude-modules.el"
  "manager.ex"
  "router.ex"
  "server.ex"
  "Home.md"
- "README.org"
  "README.md"
- ".bashrc"
- "dev.exs"
- "mix.exs"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/SSmith/.emacs.d/" (22022 2204 0 0) "vendor/" "var/" "utils/" "themes/" "savefile/" "sample/" "README.md" "projectile-bookmarks.eld" "prelude-modules.el" "prelude-modules" "personal/" "modules/" "lisp/" "init.elc" "init.el" "ido.last" "elpa/" "core/" "CONTRIBUTING.md" "auto-save-list/" ".projectile" ".gitignore" ".git/" ".DS_Store" "../" "./")
+ ("/Users/SSmith/work/hedgeye_utilities_for_jenkins/" (21938 59177 0 0) "update_git_project" "temp/" "setup_heroku_remote" "set_up_rvm" "set_up_db_from_cms" "README.md" "push_to_heroku" "prepare_test_database" "perform_common_hedgeye_setup" "load_roboconf" "identify_most_recent_schema_migration_version" "build_db_setup_if_migration_occurred" ".idea/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/SSmith/work/elixir/rumbl/" (22054 61875 0 0) "web/" "test/" "README.md" "priv/" "package.json" "node_modules/" "mix.lock" "mix.exs" "lib/" "deps/" "config/" "brunch-config.js" "_build/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/SSmith/work/elixir/" (22052 31147 0 0) "white_bread_test/" "white-bread/" "tryit/" "todo_cache/" "temp/" "stack/" "simple_todo/" "server/" "sequence/" "rumbl/" "README.org" "README.html" "planet.elixir/" "phoenix_demo/" "phoenix_chat_example/" "phoenix/" "phitter/" "paypal_ipn_manager/" "paypal_ipn_forwarder_new/" "paypal_ipn_forwarder/" "oc_ruby_20150730/" "new_phoenix/" "my_elixer_blog/" "little/" "kv_umbrella/" "kv/" "forwarder/" "elixirconf_training/" "elixirconf_slideshow.org" "elixirconf_slideshow.html" "elixirconf_notes.org" "elixirconf_notes.html" "elixir-kv/" "elixir/" ".DS_Store" "../" "./")
+
+ ("/Users/SSmith/Documents/Elixirconf/" (22031 21119 0 0) "Elixirconf Revised Final.key" ".DS_Store" "../" "./")
+
+ ("/Users/SSmith/Documents/" (22041 45977 0 0) "workspace/" "Untitled.txt" "Unleashing the Full Power of Cucumber.pdf" "Unleashing the Full Power of Cucumber.pages/" "Scott/" "RubyMine_configs/" "reviews/" "OC Ruby.pages" "Microsoft User Data/" "manuals/" "larubyconf.org" "Hedgeye/" "Elixirconf/" "dummy.txt" "dummy.rb" "docker.org" "directv_transcript.pdf" ".msecure35.tm" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/SSmith/.emacs.d/personal/" (22058 46872 0 0) "preload/" "personal.el" ".gitkeep" "../" "./")
+
+ ("/Users/SSmith/.emacs.d/" (22058 47337 0 0) "vendor/" "var/" "utils/" "themes/" "savefile/" "sample/" "README.md" "projectile-bookmarks.eld" "personal/" "modules/" "lisp/" "LICENSE" "init.el" "ido.last" "elpa/" "core/" "CONTRIBUTING.md" "auto-save-list/" ".projectile" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/SSmith/work/hedgeye-cms/tools/minimum_viable_db/" (22058 47513 0 0) "sql/" "spec/" "README.org" "README.html" "lib/" "features/" "config.yml" "bin/" ".DS_Store" "../" "./")
+
+ ("/Users/SSmith/work/hedgeye-cms/" (22058 44496 0 0) "wiki/" "vendor/" "tools/" "tmp/" "test/" "spec/" "shared/" "script/" "resources/" "regression/" "README.org" "README.md" "Rakefile" "public/" "log/" "lib/" "Gemfile.lock" "Gemfile" "features/" "Dockerfile" "doc/" "db/" "cruise_config.rb" "configure" "config.ru" "config/" "Capfile" "build_cron.sh" "app/" "acceptance_tests/" ".yardopts_cms_integration_superbox" ".ruby-version" ".ruby-gemset" ".roboconf.sh" ".railsrc" ".powrc" ".irbrc" ".idea/" ".gitmodules" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/SSmith/work/" (22037 45227 0 0) "weighttp/" "website/" "vagrant_getting_started/" "untitled/" "tree-merge-anomaly/" "todo_web/" "test42/" "talk-to-the-cards/" "starter-kit-1.5.0/" "sicp/" "se_conversion_worksheet.md" "scrape_ec2_list/" "salesforce/" "rubyfying_post2/" "roboconf/" "reveal.js/" "rails-quick-start/" "rails-launcher/" "rails-emberjs-todos/" "public_wiki.wiki/" "prelude/" "poole/" "pixelcog.com/" "paypal-ipn-forwarder/" "org-reveal/" "opal_installer/" "opal-view/" "opal-static-project-template/" "opal-rspec/" "opal-irb/" "opal-cucumber/" "oldfartdeveloper.github.io.hold5/" "oldfartdeveloper.github.io.hold4/" "oldfartdeveloper.github.io.hold3/" "oldfartdeveloper.github.io.hold2/" "oldfartdeveloper.github.io.hold1/" "oldfartdeveloper.github.io.hold/" "ob-kotlin/" "ob-elixir/" "new_rails/" "my_tiny_house/" "meatherly_blog/" "markdown-mode/" "mailroom-server/" "macro_monitor_elixir/" "macro-monitor/" "list-view/" "lissio-list/" "liss-bad/" "liss/" "lanyon/" "jscroll/" "js-fortune-spike/" "jquery-waypoints/" "ipython-multiuser-system/" "ipns/" "homesick-castle/" "hold/" "hipchat_api/" "helloworld/" "hello-samza/" "hedgeye_utilities_for_jenkins/" "hedgeye_mockups_hold/" "hedgeye_mockups/" "hedgeye_analysis/" "hedgeye-ui/" "hedgeye-tv/" "hedgeye-store/" "hedgeye-smacro-monitor/" "hedgeye-reader/" "hedgeye-mockups/" "hedgeye-marketing/" "hedgeye-dct/" "hedgeye-common/" "hedgeye-cms/" "hedgeye-client/" "hedgeye-chef-cms-hold/" "hedgeye-chef-cms/" "hedgeye-check-up/" "hedgeye-api/" "hedgelabs/" "guard-opal-rails/" "greeter.rb" "gollum-router/" "Gemfile.lock" "Full-Stack-JS-Nodember/" "fortune-spike/" "fortune-scroll/" "fix_firebase_cli/" "features.zip" "express-guide/" "embersc_hackfest/" "emberjs-todos-tutorial/" "emberfoo/" "emberfire-example/" "emberFire/" "ember-sc-bostonember/" "ember-dev/" "ember-cli-plus-backend/" "ember-cli/" "ember-app-kit-example-with-bloggr-client/" "emacsd/" "elixir/" "dummy/" "docs/" "dockerfile-rbenv/" "docker_elasticsearch/" "docker-ipns/" "docker-cms-old/" "docker-cms/" "docker/" "database2.yml" "database.yml" "cuke_fail_demo/" "cucumber-js/" "corbin-node/" "content_backup_oct_24_2014.sql.gz" "configure_salesforce_static_tables/" "clojure-noob-correl/" "chef-dk/" "chef-diego-cms/" "capistrano/" "canonical-cukes/" "bucket-play/" "broccoli-sample-app/" "bostonember/" "boston_ember_cli/" "bostomember/" "bloggr-client-rails/" "bloggr-client/" "bloggr-cli-node/" "bloggr-cli-firebase/" "bloggr-cli/" "blog-firebase/" "billing_engine-client/" "billing_engine/" "Billing-Logic/" "aws-sdk-ruby/" "aws-hedgeye/" "android-hedgeye-tv/" "98_99.tar.gz" ".DS_Store" "#temp.txt#" "../" "./")
+
+ ("/Users/SSmith/" (22058 46869 0 0) "workspace/" "work/" "VirtualBox VMs/" "touchallpow" "tmp/" "testdata.zip" "TestData/" "sprout-wrap/" "Snapshots/" "sf_sector_reports/" "safety/" "RubymineProjects/" "renewal_repair.txt" "ref_path/" "Public/" "Presentations/" "Pictures/" "pgadmin.log" "notes.org" "node_modules/" "mysql_init.sql" "Music/" "Movies/" "logfile" "Library/" "jlavin/" "jars/" "it.pem" "IdeaProjects/" "hedgeye_db/" "hedgeye/" "feature_hierarchy.jpg" "exercism/" "dummy2.txt" "dummy.rb" "dummy.org" "dummy.html" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "count.txt~" "count.txt" "Binaries/" "bin/" "awscli-bundle.zip" "awscli-bundle/" "Applications/" ".zshrc" ".zprofile" ".yjp/" ".xfwqummrc" ".viminfo" ".vim/" ".vagrant.d/" ".Trash/" ".tmux.conf" ".subversion/" ".ssh/" ".samza/" ".rvmrc" ".rvm/" ".RubyMine80/" ".RubyMine70/" ".rnd" ".psql_history" ".profile" ".pow/" ".pgpass" ".pairs" ".oracle_jre_usage/" ".nvm/" ".npm/" ".node-gyp/" ".netrc" ".mysql_history" ".mongorc.js" ".mix/" ".m2/" ".local/" ".lesshst" ".kdyefxzn" ".irbrc" ".irb-history" ".install_markers/" ".inputrc" ".iex.exs" ".ievms/" ".homesick/" ".hex/" ".heroku/" ".guard_history" ".grip/" ".gitmessage" ".gitignore_global" ".gitconfig" ".gemrc" ".gem/" ".freemind/" ".exercism.json" ".erlang.cookie" ".erc/" ".emacs.d.pre-prelude.tar" ".emacs.d/" ".DS_Store" ".dropbox/" ".dbshell" ".cups/" ".config/" ".CFUserTextEncoding" ".ceylon/" ".cache/" ".bzr.log" ".boot2docker/" ".bin/" ".bashrc" ".bash_profile~" ".bash_profile.bak" ".bash_profile" ".bash_it/" ".bash_history" ".aws/" ".atom/" ".aliases" "#count.txt#" "../" "./")
 
  ("/Users/SSmith/work/elixir/paypal_ipn_forwarder/lib/paypal_ipn_forwarder/" (22021 58846 0 0) "side_trips.md" "server.ex" "sender_simulator.ex" "router.ex" "manager.ex" "client_simulator.ex" "../" "./")
 
@@ -148,19 +169,9 @@
 
  ("/Users/SSmith/work/elixir/paypal_ipn_forwarder/" (22019 59249 0 0) "tmp/" "test/" "side_trips.md" "README.org" "README.md" "README.html" "paypal_ipn_forwarder.wiki/" "mix.lock" "mix.exs" "LICENSE" "lib/" "features/" "Elixir.PaypalIpnForwarder.Manager.State.beam" "Elixir.PaypalIpnForwarder.Manager.beam" "deps/" "config/" "_build/" ".idea/" ".gitmodules" ".gitignore" ".git/" "../" "./")
 
- ("/Users/SSmith/work/elixir/" (21995 7175 0 0) "white_bread_test/" "white-bread/" "untitled1/" "untitled/" "tryit/" "todo_cache/" "temp/" "stack/" "simple_todo/" "server/" "sequence/" "README.org" "README.html" "planet.elixir/" "phoenix_demo/" "phoenix_chat_example/" "phoenix/" "phitter/" "paypal_ipn_manager/" "paypal_ipn_forwarder/" "oc_ruby_20150730/" "new_phoenix/" "my_elixer_blog/" "little/" "kv_umbrella/" "kv2/" "kv/" "issues/" "in_action/" "hold_phitter/" "hello_phoenix/" "fraction/" "elixir_poolboy_example/" "elixir_ipn_forwarder/" "elixir.wiki/" "elixir-musings/" "elixir-in-action/" "elixir/" "concurrency/" "breach/" "anagrams/" "agent_dict/" ".DS_Store" "../" "./")
-
- ("/Users/SSmith/work/" (22021 58389 0 0) "weighttp/" "website/" "vagrant_getting_started/" "untitled/" "tree-merge-anomaly/" "todo_web/" "test42/" "talk-to-the-cards/" "starter-kit-1.5.0/" "sicp/" "se_conversion_worksheet.md" "scrape_ec2_list/" "salesforce/" "rubyfying_post2/" "roboconf/" "reveal.js/" "rails-quick-start/" "rails-launcher/" "rails-emberjs-todos/" "public_wiki.wiki/" "prelude/" "poole/" "pixelcog.com/" "paypal-ipn-forwarder/" "org-reveal/" "opal_installer/" "opal-view/" "opal-static-project-template/" "opal-rspec/" "opal-irb/" "opal-cucumber/" "oldfartdeveloper.github.io.hold5/" "oldfartdeveloper.github.io.hold4/" "oldfartdeveloper.github.io.hold3/" "oldfartdeveloper.github.io.hold2/" "oldfartdeveloper.github.io.hold1/" "oldfartdeveloper.github.io.hold/" "ob-kotlin/" "ob-elixir/" "new_rails/" "my_tiny_house/" "meatherly_blog/" "markdown-mode/" "mailroom-server/" "macro-monitor/" "list-view/" "lissio-list/" "liss-bad/" "liss/" "lanyon/" "jscroll/" "js-fortune-spike/" "jquery-waypoints/" "ipython-multiuser-system/" "ipns/" "homesick-castle/" "hold/" "hipchat_api/" "helloworld/" "hello-samza/" "hedgeye_utilities_for_jenkins/" "hedgeye_mockups_hold/" "hedgeye_mockups/" "hedgeye_analysis/" "hedgeye-ui/" "hedgeye-tv/" "hedgeye-store/" "hedgeye-reader/" "hedgeye-mockups/" "hedgeye-marketing/" "hedgeye-dct/" "hedgeye-common/" "hedgeye-cms/" "hedgeye-client/" "hedgeye-chef-cms-hold/" "hedgeye-chef-cms/" "hedgeye-check-up/" "hedgeye-api/" "hedgelabs/" "guard-opal-rails/" "greeter.rb" "gollum-router/" "Gemfile.lock" "Full-Stack-JS-Nodember/" "fortune-spike/" "fortune-scroll/" "fix_firebase_cli/" "features.zip" "express-guide/" "embersc_hackfest/" "emberjs-todos-tutorial/" "emberfoo/" "emberfire-example/" "emberFire/" "ember-sc-bostonember/" "ember-dev/" "ember-cli-plus-backend/" "ember-cli/" "ember-app-kit-example-with-bloggr-client/" "elixir/" "docs/" "dockerfile-rbenv/" "docker_elasticsearch/" "docker-ipns/" "docker-cms-old/" "docker-cms/" "docker/" "database2.yml" "database.yml" "cuke_fail_demo/" "cucumber-js/" "corbin-node/" "content_backup_oct_24_2014.sql.gz" "configure_salesforce_static_tables/" "chef-dk/" "chef-diego-cms/" "capistrano/" "canonical-cukes/" "bucket-play/" "broccoli-sample-app/" "bostonember/" "boston_ember_cli/" "bostomember/" "bloggr-client-rails/" "bloggr-client/" "bloggr-cli-node/" "bloggr-cli-firebase/" "bloggr-cli/" "blog-firebase/" "billing_engine-client/" "billing_engine/" "Billing-Logic/" "aws-sdk-ruby/" "aws-hedgeye/" "android-hedgeye-tv/" "98_99.tar.gz" ".DS_Store" "#temp.txt#" "../" "./")
-
- ("/Users/SSmith/" (22022 1571 0 0) "workspace/" "work/" "VirtualBox VMs/" "touchallpow" "tmp/" "testdata.zip" "TestData/" "sprout-wrap/" "Snapshots/" "sf_sector_reports/" "safety/" "RubymineProjects/" "renewal_repair.txt" "Public/" "Presentations/" "Pictures/" "notes.org" "node_modules/" "Music/" "Movies/" "logfile" "Library/" "jlavin/" "jars/" "it.pem" "IdeaProjects/" "hedgeye_db/" "hedgeye/" "feature_hierarchy.jpg" "exercism/" "dummy2.txt" "dummy.rb" "dummy.org" "dummy.html" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "count.txt~" "count.txt" "Binaries/" "bin/" "awscli-bundle.zip" "awscli-bundle/" "Applications/" ".zshrc" ".zprofile" ".yjp/" ".xfwqummrc" ".viminfo" ".vim/" ".vagrant.d/" ".Trash/" ".tmux.conf" ".subversion/" ".ssh/" ".samza/" ".rvmrc" ".rvm/" ".RubyMine80/" ".RubyMine70/" ".rnd" ".psql_history" ".pow/" ".pairs" ".nvm/" ".npm/" ".node-gyp/" ".netrc" ".mysql_history" ".mongorc.js" ".mix/" ".m2/" ".local/" ".lesshst" ".kdyefxzn" ".irbrc" ".irb-history" ".install_markers/" ".inputrc" ".iex.exs" ".ievms/" ".homesick/" ".hex/" ".heroku/" ".guard_history" ".grip/" ".gitmessage" ".gitignore_global" ".gitconfig" ".gemrc" ".gem/" ".freemind/" ".exercism.json" ".erlang.cookie" ".erc/" ".emacs.d.pre-prelude.tar" ".emacs.d/" ".DS_Store" ".dropbox/" ".dbshell" ".cups/" ".config/" ".CFUserTextEncoding" ".ceylon/" ".cache/" ".bzr.log" ".boot2docker/" ".bin/" ".bashrc" ".bash_profile~" ".bash_profile.bak" ".bash_profile" ".bash_it/" ".bash_history" ".aws/" ".atom/" ".aliases" "#count.txt#" "../" "./")
-
  ("/Users/SSmith/work/elixir/paypal_ipn_forwarder/paypal_ipn_forwarder.wiki/" (21987 31532 0 0) "seq_diagrams/" "Home.md" ".git" "../" "./")
 
- ("/Users/SSmith/work/hedgeye-cms/tools/minimum_viable_db/" (21990 7208 0 0) "spec/" "README.org" "README.html" "lib/" "features/" "config.yml" "bin/" ".DS_Store" "../" "./")
-
  ("/Users/SSmith/work/markdown-mode/" (21989 31083 0 0) "webpage.sh" "tests/" "README.md" "markdown-mode.el" "LICENSE" ".gitignore" ".git/" "../" "./")
-
- ("/Users/SSmith/work/hedgeye-cms/" (21988 56917 0 0) "wiki/" "vendor/" "tools/" "tmp/" "test/" "spec/" "shared/" "script/" "resources/" "regression/" "README.md" "Rakefile" "public/" "log/" "lib/" "Gemfile.lock" "Gemfile" "features/" "doc/" "db_backup.sql" "db/" "cruise_config.rb" "configure" "config.ru" "config/" "Capfile" "build_cron.sh" "app/" "acceptance_tests/" ".yardopts_cms_integration_superbox" ".ruby-version" ".ruby-gemset" ".roboconf.sh" ".railsrc" ".powrc" ".irbrc" ".idea/" ".gitmodules" ".gitignore" ".git/" ".DS_Store" "../" "./")
 
  ("/Users/SSmith/work/hedgeye-cms/tmp/" (21988 55598 0 0) "yourconferencecenter/" "temp.txt" "sockets/" "sessions/" "sass-cache/" "restart.txt" "production_deploy_contsole_output.txt" "prod_deploy_2015_03_12.log" "prod_deploy_20150604.log" "pids/" "mvd.sql" "mvd" "emails/" "dummy.yml" "dummy.txt" "dummy.rb" "database.yml" "crontab_staging.txt" "crontab_production.txt" "credentials.md" "cache/" "attachment_fu/" ".DS_Store" "../" "./")
 
@@ -223,8 +234,6 @@
  ("/Users/SSmith/work/billing_engine/" (21963 61895 0 0) "vendor/" "tools/" "tmp/" "test/" "temp/" "spec-opal/" "spec/" "shared/" "script/" "README.md" "Rakefile" "public/" "Procfile" "package.json" "node_modules/" "log/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "features/" "doc/" "db/" "cruise_config.rb" "configure" "config.ru" "config/" "app/" ".yardopts" ".ruby-version" ".ruby-gemset" ".rspec" ".roboconf.sh" ".powrc" ".idea/" ".heroku_env_staging" ".heroku_env_production" ".gitmodules" ".gitignore" ".git/" ".DS_Store" ".bundle/" ".aprc" "../" "./")
 
  ("/Users/SSmith/work/elixir/breach/" (21966 41512 0 0) "temp.txt" "proposal.txt" "../" "./")
-
- ("/Users/SSmith/Documents/" (21963 42892 0 0) "workspace/" "Untitled.txt" "Unleashing the Full Power of Cucumber.pdf" "Unleashing the Full Power of Cucumber.pages/" "Scott/" "reviews/" "Microsoft User Data/" "manuals/" "Hedgeye/" "dummy.txt" "dummy.rb" "directv_transcript.pdf" ".msecure35.tm" ".localized" ".DS_Store" "../" "./")
 
  ("/Users/SSmith/Documents/reviews/" (21963 47629 0 0) "tom.org" "tom.html" "../" "./")
 
@@ -331,14 +340,6 @@
  ("/Users/SSmith/work/elixir/phitter/web/templates/page/" (21940 11964 0 0) "index.html.eex" "../" "./")
 
  ("/Users/SSmith/work/elixir/agent_dict/" (21812 26571 0 0) "Elixir.Frequency.beam" "agent_dict.exs" "../" "./")
-
- ("/Users/SSmith/work/elixir/Phitter.hold/" (21939 4184 0 0) "web/" "test/" "README.org" "README.md" "README.html" "priv/" "package.json" "Notes.org" "node_modules/" "mix.lock" "mix.exs" "lib/" "deps/" "config/" "brunch-config.js" "_build/" ".idea/" ".gitignore" ".git/" "../" "./")
-
- ("/Users/SSmith/work/elixir/Phitter.hold/web/static/vendor/" (21939 3868 0 0) "phoenix.js" "../" "./")
-
- ("/Users/SSmith/work/elixir/Phitter.hold/web/static/" (21899 57855 0 0) "vendor/" "js/" "css/" "../" "./")
-
- ("/Users/SSmith/work/elixir/Phitter.hold/config/" (21899 57855 0 0) "test.exs" "prod.exs" "dev.exs" "config.exs" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----
